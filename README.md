@@ -99,14 +99,6 @@ This project aims to set up a monitoring infrastructure for a multi-machine envi
 
 - [Gonçalo Resendes]
 
-## License
 
-This project is licensed under the [License Name] License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
 
-- Special thanks to [Acknowledged Person/Team] for their contributions and support.
-- This project was inspired by [Source of Inspiration].
-
-    Special thanks to [Acknowledged Person/Team] for their contributions and support.
-    This project was inspired by [Source of Inspiration].
